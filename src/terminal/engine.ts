@@ -35,7 +35,7 @@ type LoginView = {
 
 export type ScreenViewModel = TerminalView | BrowserView | LoginView
 
-const TARGET_FRAGMENTS = ['3oBDSvWJ', 'DVsxafPuTY', 'LnMnqUp323', 'ueyaZ1qCUE', 'Uhpump']
+const TARGET_FRAGMENTS = ['38CgVFMY', 'f9Am6PkNAn', 'XneruMdW2q', 'wqHRqFPLRa', 'cUpump']
 const FRAGMENT_REWARDS: FragmentReward[] = [
   { command: 'scan', output: 'Network sweep complete. Fragment recovered.' },
   { command: 'probe moon', output: 'Moon relay handshake accepted. Fragment recovered.' },
